@@ -36,12 +36,8 @@
 #include <QTextCodec>
 
 #include "orthanc/OrthancCppClient.h"
-
 #include "Model/ProgramConfiguration.h"
-
 #include "Controller/ViewerWindow.h"
-
-using namespace std;
 
 //!
 //! \brief The main function is the principal function of the program.
